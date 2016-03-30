@@ -1,0 +1,2 @@
+# Video_transcribe_imagePickerController
+ImagePickerController实现视频的录制
